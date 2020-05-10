@@ -1,0 +1,1 @@
+node "homework.js" "./credentials.json" "./questions.js" "ankrypt"
